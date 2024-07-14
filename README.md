@@ -5,11 +5,22 @@
 
 ## Installation
 
-You can easily add this library to your project by adding the following dependency to your build.gradle file:
+Add the following to the `settings.gradle`:
+```
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
+Add this dependency to your dependencies in the app `build.gradle`:
 
 ```groovy
 dependencies {
-      implementation 'com.github.adamozeri:CustomButtons-HW2:Tag'
+      implementation 'com.github.adamozeri:CustomButtons-HW2:v1.0.3'
 }
 ```
 
