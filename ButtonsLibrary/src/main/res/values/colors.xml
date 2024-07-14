@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yourColor">#fff555</color>
+    <color name="startColor">#222fff</color>
+    <color name="endColor">#f0f02424</color>
+    <color name="yourOutlineColor">#000000</color>
+</resources>
