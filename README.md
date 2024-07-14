@@ -9,7 +9,7 @@ You can easily add this library to your project by adding the following dependen
 
 ```groovy
 dependencies {
-      implementation 'com.github.adamozeri:CustomButtons-HW2:1'
+      implementation 'com.github.adamozeri:CustomButtons-HW2:Tag'
 }
 ```
 
