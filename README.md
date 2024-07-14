@@ -1,3 +1,6 @@
+# Description
+This library allows the developer to add easily design to the application buttons.
+
 # Example
 
 ![IMG-20240714-WA0033](https://github.com/user-attachments/assets/023885e5-0c71-41ec-9261-7cea6a2afbbc)
