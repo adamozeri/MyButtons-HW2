@@ -1,5 +1,5 @@
 # Description
-This library allows the developer to add easily design to the application buttons.
+This library allows the developer to easily add design to the application buttons.
 
 # Example
 
